@@ -1,0 +1,36 @@
+text,category,priority
+"Production server is completely down and nobody can access the system",Infrastructure,Critical
+"Website is unavailable for all customers",Infrastructure,Critical
+"Database server crashed and the application stopped working",Infrastructure,Critical
+"Network outage is affecting the entire office",Infrastructure,Critical
+"Application is extremely slow for all users",Infrastructure,High
+"VPN connection keeps disconnecting while working",Network,Medium
+"Office WiFi is not connecting on my laptop",Network,Medium
+"Internet connection is very slow in my department",Network,Medium
+"Unable to connect to the company VPN",Network,High
+"Network connection drops every few minutes",Network,Medium
+"I forgot my password and cannot login",Account Access,Low
+"My account is locked after multiple login attempts",Account Access,Medium
+"I cannot sign into my company account",Account Access,Medium
+"Password reset link is not working",Account Access,Low
+"My account has been disabled unexpectedly",Account Access,High
+"Payment was deducted twice from my account",Billing,High
+"Payment failed but money was deducted",Billing,High
+"I was charged the wrong amount on my invoice",Billing,Medium
+"I need a copy of my latest invoice",Billing,Low
+"Refund has not been received yet",Billing,Medium
+"Email application crashes whenever I open it",Software,Medium
+"Microsoft Teams is not opening on my computer",Software,Medium
+"Application installation keeps failing",Software,Low
+"Software update failed on my laptop",Software,Low
+"Business application shows an unexpected error",Software,Medium
+"My laptop will not turn on",Hardware,High
+"Keyboard is not working properly",Hardware,Low
+"Laptop screen is flickering continuously",Hardware,Medium
+"My computer keeps restarting automatically",Hardware,High
+"Printer is not printing any documents",Hardware,Low
+"Suspicious login detected on an administrator account",Security,Critical
+"I think my company account has been hacked",Security,Critical
+"I received a phishing email asking for my password",Security,High
+"Malware was detected on my work computer",Security,Critical
+"Someone accessed confidential files without permission",Security,Critical

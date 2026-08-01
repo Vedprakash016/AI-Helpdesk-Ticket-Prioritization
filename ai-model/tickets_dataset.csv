@@ -1,0 +1,1332 @@
+text,category,priority
+My company laptop will not turn on,Hardware,High
+Employees keep losing network connectivity in the finance department,Network,Medium
+Suspicious activity was detected on my company account account,Security,High
+Urgent issue: malware has infected systems connected to employee portal,Security,Critical
+accounting software stops responding after a few minutes,Software,Medium
+Support needed: i am unable to authenticate to Microsoft 365,Account Access,Medium
+I need assistance because eRP system crashes whenever I open it,Software,Medium
+Administrator credentials for Microsoft 365 have been compromised,Security,Critical
+A security breach exposed confidential data in company account,Security,Critical
+The backend service is unavailable for many users,Infrastructure,High
+A suspicious attachment was sent to my admin dashboard account,Security,Medium
+Please help. i received a suspicious email related to cloud account,Security,Medium
+Please help. i need help resetting my password for cloud account,Account Access,Low
+The mouse connected to my company laptop is not responding correctly,Hardware,Low
+The internal portal is experiencing a serious service disruption,Infrastructure,High
+Urgent issue: network performance is inconsistent in the meeting area,Network,Low
+The entire production environment for database server has gone offline,Infrastructure,Critical
+I need assistance because the production backend service is down across the organization,Infrastructure,Critical
+Support needed: employees in the branch office cannot connect to the company VPN,Network,High
+Please help. company application installation fails on my computer,Software,Low
+Support needed: i received a phishing message asking for my company email password,Security,High
+Please help. many employees cannot access the production environment,Infrastructure,High
+Please help. the internal portal is responding slowly to requests,Infrastructure,Medium
+The network connection keeps dropping in the engineering floor,Network,Medium
+I need assistance because i need billing details for company purchase,Billing,Low
+The production internal portal is down across the organization,Infrastructure,Critical
+Support needed: i urgently need access to Microsoft 365 for business operations,Account Access,High
+I urgently need access to cloud account for business operations,Account Access,High
+CRM application crashes when I try to open a file,Software,Medium
+Urgent issue: my office computer overheats and shuts down occasionally,Hardware,Medium
+A suspicious attachment was sent to my company account account,Security,Medium
+My office computer is making a strange noise,Hardware,Low
+The branch office cannot connect to the corporate network,Network,High
+The production production server is down across the organization,Infrastructure,Critical
+My refund for service plan has not arrived,Billing,Medium
+ERP system crashes continuously for several employees,Software,High
+My laptop shuts down immediately after startup,Hardware,High
+I was billed twice for the same software license,Billing,High
+The production customer platform is down across the organization,Infrastructure,Critical
+Money was taken even though the software license transaction failed,Billing,High
+Please help. the monitor connected to my office computer keeps disconnecting,Hardware,Medium
+Support needed: the production production environment is down across the organization,Infrastructure,Critical
+The entire finance department has lost network connectivity,Network,High
+I cannot access my HR portal account after several attempts,Account Access,Medium
+I received an unexpected security alert from company account,Security,Medium
+Network performance is inconsistent in the finance department,Network,Low
+I cannot remember my cloud account password,Account Access,Low
+I was charged the wrong price for service plan,Billing,Medium
+Network access is completely unavailable in the main office,Network,High
+Please explain a charge for support plan,Billing,Low
+Please help. the web application keeps crashing during business hours,Infrastructure,High
+The entire cloud platform is offline and nobody can use it,Infrastructure,Critical
+Please help. an important feature in CRM application has completely stopped working,Software,High
+Support needed: network access is completely unavailable in the main office,Network,High
+Urgent issue: desktop application closes whenever I try to read a message,Software,Medium
+Please help. i was charged the wrong price for monthly subscription,Billing,Medium
+Please help. my credentials are being rejected by HR portal,Account Access,Medium
+A suspicious attachment was sent to my customer portal account,Security,Medium
+I need assistance because the entire customer platform is offline and nobody can use it,Infrastructure,Critical
+Please help. i was charged the wrong price for software license,Billing,Medium
+ERP system installation fails on my computer,Software,Low
+I need help configuring Outlook,Software,Low
+All customers have lost access to the backend service,Infrastructure,Critical
+I need assistance because i received a suspicious email related to employee portal,Security,Medium
+I need assistance because the database server is experiencing a serious service disruption,Infrastructure,High
+I am unable to authenticate to employee portal,Account Access,Medium
+Please send me a password reset for customer portal,Account Access,Low
+My admin dashboard account is locked,Account Access,Medium
+A duplicate charge appeared for software license,Billing,High
+Excel crashes whenever I open it,Software,Medium
+Network performance is inconsistent in the support department,Network,Low
+I urgently need access to admin dashboard for business operations,Account Access,High
+Outlook closes whenever I try to read a message,Software,Medium
+The keyboard on my workstation has a few keys that do not work,Hardware,Low
+I forgot my password for customer portal,Account Access,Low
+Urgent issue: the keyboard on my laptop has a few keys that do not work,Hardware,Low
+I need assistance because network performance is inconsistent in the finance department,Network,Low
+Urgent issue: i have completely lost access to admin dashboard and cannot continue working,Account Access,High
+A major component of the cloud platform is failing,Infrastructure,High
+I want to change my Microsoft 365 password,Account Access,Low
+Many employees cannot access the database server,Infrastructure,High
+WiFi signal is weak in the finance department,Network,Low
+Please help. the main office cannot connect to the corporate network,Network,High
+company application closes unexpectedly when I use it,Software,Medium
+A major component of the customer platform is failing,Infrastructure,High
+The amount on my cloud subscription invoice is incorrect,Billing,Medium
+Please help. company application failure is preventing the team from completing critical work,Software,High
+The entire production environment for production server has gone offline,Infrastructure,Critical
+Suspicious activity was detected on my employee portal account,Security,High
+Please help. suspicious activity was detected on my HR portal account,Security,High
+I need assistance because please send me a password reset for employee portal,Account Access,Low
+I received an unexpected security alert from employee portal,Security,Medium
+Support needed: the network connection keeps dropping in the branch office,Network,Medium
+Please help. someone may have stolen my admin dashboard login credentials,Security,High
+An important feature in desktop application has completely stopped working,Software,High
+I received a phishing message asking for my customer portal password,Security,High
+My cloud account account was disabled and important work is blocked,Account Access,High
+Support needed: a security breach exposed confidential data in company account,Security,Critical
+Support needed: someone may have stolen my HR portal login credentials,Security,High
+Microsoft Teams closes whenever I try to read a message,Software,Medium
+Please help. the printer connected to my office computer has a minor issue,Hardware,Low
+I need assistance because my account was charged multiple times for company purchase,Billing,High
+Support needed: sensitive company data from HR portal may have been stolen,Security,Critical
+All customers have lost access to the cloud platform,Infrastructure,Critical
+Please help. a major component of the database server is failing,Infrastructure,High
+Support needed: i was charged the wrong price for company purchase,Billing,Medium
+The production environment keeps crashing during business hours,Infrastructure,High
+The mouse connected to my office computer is not responding correctly,Hardware,Low
+Please help. the printer connected to my desktop computer has a minor issue,Hardware,Low
+I need assistance because my refund for service plan has not arrived,Billing,Medium
+Support needed: accounting software closes whenever I try to read a message,Software,Medium
+I urgently need access to company email for business operations,Account Access,High
+Urgent issue: the latest update for Excel will not install,Software,Low
+The connection becomes unstable throughout the day in the engineering floor,Network,Medium
+Employees keep losing network connectivity in the meeting area,Network,Medium
+Outlook stops responding after a few minutes,Software,Medium
+CRM application crashes continuously for several employees,Software,High
+Internet latency is very high in the support department,Network,Medium
+Urgent issue: an attacker gained administrator access to customer portal,Security,Critical
+Please help. the production web application is down across the organization,Infrastructure,Critical
+Please help. the printer connected to my workstation has a minor issue,Hardware,Low
+Login to company account keeps failing,Account Access,Medium
+Please help. i need billing details for cloud subscription,Billing,Low
+I need assistance because employees keep losing network connectivity in the engineering floor,Network,Medium
+I need assistance because network access is completely unavailable in the support department,Network,High
+There was an unusual login attempt on cloud account,Security,Medium
+company application displays an unexpected error,Software,Medium
+Support needed: i need help resetting my password for Microsoft 365,Account Access,Low
+Please help. the production server has completely crashed for all users,Infrastructure,Critical
+Support needed: my HR portal account is locked,Account Access,Medium
+Support needed: the network connection keeps dropping in the engineering floor,Network,Medium
+I cannot access my admin dashboard account after several attempts,Account Access,Medium
+Please help. employees in the finance department cannot connect to the company VPN,Network,High
+Please help. eRP system failure is preventing the team from completing critical work,Software,High
+Please help. my company account account is locked,Account Access,Medium
+Some employees are having trouble accessing the production server,Infrastructure,Medium
+Urgent issue: i want to change my admin dashboard password,Account Access,Low
+Urgent issue: the cloud platform has completely crashed for all users,Infrastructure,Critical
+Someone may have stolen my employee portal login credentials,Security,High
+Please help. wiFi signal is weak in the finance department,Network,Low
+An attacker gained administrator access to cloud account,Security,Critical
+Confidential information from HR portal was accessed without permission,Security,Critical
+I need assistance because the hard drive in my desktop computer appears to have failed,Hardware,High
+Support needed: outlook displays an unexpected error,Software,Medium
+Urgent issue: the backend service has completely crashed for all users,Infrastructure,Critical
+The entire main office has lost network connectivity,Network,High
+A security breach exposed confidential data in Microsoft 365,Security,Critical
+I received a phishing message asking for my employee portal password,Security,High
+My account was charged multiple times for service plan,Billing,High
+I want to change my admin dashboard password,Account Access,Low
+There is an unexpected charge for company purchase,Billing,Medium
+The password reset link for company email has expired,Account Access,Low
+Urgent issue: i have completely lost access to company email and cannot continue working,Account Access,High
+accounting software closes unexpectedly when I use it,Software,Medium
+Urgent issue: the branch office cannot connect to the corporate network,Network,High
+accounting software failure is preventing the team from completing critical work,Software,High
+Support needed: internet disconnects several times a day in the branch office,Network,Medium
+The cloud platform is unavailable for many users,Infrastructure,High
+Please help. an attacker gained administrator access to company account,Security,Critical
+My workstation will not turn on,Hardware,High
+An attacker gained administrator access to company account,Security,Critical
+An important feature in company application has completely stopped working,Software,High
+I need assistance because company application crashes when I try to open a file,Software,Medium
+I need assistance because internet speed is slightly slow in the support department,Network,Low
+Someone logged into my company account account without permission,Security,High
+Internet speed is slightly slow in the meeting area,Network,Low
+Urgent issue: i need help installing accounting software,Software,Low
+Urgent issue: i cannot remember my employee portal password,Account Access,Low
+Support needed: i have completely lost access to HR portal and cannot continue working,Account Access,High
+Performance of the backend service has degraded,Infrastructure,Medium
+I need assistance because the cloud platform keeps crashing during business hours,Infrastructure,High
+CRM application closes whenever I try to read a message,Software,Medium
+I cannot access my company account account after several attempts,Account Access,Medium
+Please help. the password reset link for company email has expired,Account Access,Low
+I received an unexpected security alert from admin dashboard,Security,Medium
+Urgent issue: eRP system closes unexpectedly when I use it,Software,Medium
+I need assistance because the cloud platform is experiencing a serious service disruption,Infrastructure,High
+I need a copy of my invoice for software license,Billing,Low
+Support needed: i received a phishing message asking for my company account password,Security,High
+My company laptop overheats and shuts down occasionally,Hardware,Medium
+Confidential information from customer portal was accessed without permission,Security,Critical
+Support needed: my account was charged multiple times for software license,Billing,High
+The keyboard on my laptop has a few keys that do not work,Hardware,Low
+I was charged the wrong price for support plan,Billing,Medium
+accounting software closes whenever I try to read a message,Software,Medium
+Please help. i received a suspicious email related to Microsoft 365,Security,Medium
+Urgent issue: the production cloud platform is down across the organization,Infrastructure,Critical
+Employees in the finance department cannot connect to the company VPN,Network,High
+Support needed: the connection becomes unstable throughout the day in the finance department,Network,Medium
+Microsoft Teams crashes when I try to open a file,Software,Medium
+Support needed: all customers have lost access to the database server,Infrastructure,Critical
+A security breach exposed confidential data in customer portal,Security,Critical
+I cannot sign into Microsoft 365,Account Access,Medium
+I need assistance because some employees are having trouble accessing the customer platform,Infrastructure,Medium
+I received a suspicious email related to Microsoft 365,Security,Medium
+I forgot my password for company email,Account Access,Low
+Please help. i was charged the wrong price for cloud subscription,Billing,Medium
+The printer connected to my office computer has a minor issue,Hardware,Low
+Support needed: i urgently need access to cloud account for business operations,Account Access,High
+I have completely lost access to admin dashboard and cannot continue working,Account Access,High
+Urgent issue: wiFi disconnects frequently in the meeting area,Network,Medium
+An attacker gained administrator access to employee portal,Security,Critical
+WiFi disconnects frequently in the engineering floor,Network,Medium
+The backend service is responding slowly to requests,Infrastructure,Medium
+I need assistance because please explain a charge for monthly subscription,Billing,Low
+The backend service is running unusually slowly,Infrastructure,Medium
+I need assistance because the connection becomes unstable throughout the day in the engineering floor,Network,Medium
+A major component of the database server is failing,Infrastructure,High
+accounting software freezes during normal work,Software,Medium
+Support needed: the production customer platform is down across the organization,Infrastructure,Critical
+I need assistance because someone logged into my cloud account account without permission,Security,High
+Urgent issue: my workstation overheats and shuts down occasionally,Hardware,Medium
+An important feature in Outlook has completely stopped working,Software,High
+Urgent issue: my laptop shuts down immediately after startup,Hardware,High
+Login to admin dashboard keeps failing,Account Access,Medium
+Suspicious activity was detected on my Microsoft 365 account,Security,High
+My account was charged multiple times for cloud subscription,Billing,High
+The keyboard on my desktop computer has a few keys that do not work,Hardware,Low
+I need a copy of my invoice for company purchase,Billing,Low
+Please help. i need billing details for software license,Billing,Low
+Support needed: some employees are having trouble accessing the web application,Infrastructure,Medium
+Administrator credentials for HR portal have been compromised,Security,Critical
+Support needed: accounting software failure is preventing the team from completing critical work,Software,High
+Outlook crashes continuously for several employees,Software,High
+I need assistance because wiFi coverage is poor in the main office,Network,Low
+I need assistance because cRM application closes whenever I try to read a message,Software,Medium
+Please provide the receipt for service plan,Billing,Low
+Money was taken even though the service plan transaction failed,Billing,High
+I need help resetting my password for Microsoft 365,Account Access,Low
+Support needed: please provide the receipt for service plan,Billing,Low
+I need help installing Microsoft Teams,Software,Low
+Network access is completely unavailable in the meeting area,Network,High
+Administrator credentials for admin dashboard have been compromised,Security,Critical
+I need assistance because the backend service is responding slowly to requests,Infrastructure,Medium
+Please help. a suspicious attachment was sent to my company email account,Security,Medium
+Urgent issue: the network connection keeps dropping in the support department,Network,Medium
+My company email account was disabled and important work is blocked,Account Access,High
+Please help. eRP system crashes when I try to open a file,Software,Medium
+The network connection keeps dropping in the branch office,Network,Medium
+desktop application stops responding after a few minutes,Software,Medium
+Urgent issue: a security breach exposed confidential data in admin dashboard,Security,Critical
+Please help. the production server is unavailable company wide,Infrastructure,Critical
+I need assistance because i received a phishing message asking for my admin dashboard password,Security,High
+I need assistance because the internal portal keeps crashing during business hours,Infrastructure,High
+Support needed: money was taken even though the monthly subscription transaction failed,Billing,High
+Please explain a charge for cloud subscription,Billing,Low
+The database server has completely crashed for all users,Infrastructure,Critical
+Please help. desktop application installation fails on my computer,Software,Low
+Where can I download my company purchase invoice,Billing,Low
+Please send me a password reset for company account,Account Access,Low
+Internet disconnects several times a day in the support department,Network,Medium
+Outlook crashes when I try to open a file,Software,Medium
+The main office cannot connect to the corporate network,Network,High
+I need assistance because all customers have lost access to the customer platform,Infrastructure,Critical
+Please help. outlook closes unexpectedly when I use it,Software,Medium
+I need assistance because network access is completely unavailable in the finance department,Network,High
+I need help configuring Microsoft Teams,Software,Low
+I received a phishing message asking for my company account password,Security,High
+Urgent issue: my Microsoft 365 account was disabled and important work is blocked,Account Access,High
+I need assistance because the display on my company laptop keeps flickering,Hardware,Medium
+Login to cloud account keeps failing,Account Access,Medium
+Urgent issue: i received a phishing message asking for my Microsoft 365 password,Security,High
+I need assistance because please send me a password reset for cloud account,Account Access,Low
+Urgent issue: i cannot sign into company account,Account Access,Medium
+I need assistance because the production server is experiencing a serious service disruption,Infrastructure,High
+I have completely lost access to customer portal and cannot continue working,Account Access,High
+Support needed: accounting software freezes during normal work,Software,Medium
+Please help. there was an unusual login attempt on company account,Security,Medium
+Please provide the receipt for monthly subscription,Billing,Low
+Support needed: a major component of the customer platform is failing,Infrastructure,High
+All customers have lost access to the production server,Infrastructure,Critical
+Urgent issue: an attacker gained administrator access to HR portal,Security,Critical
+Urgent issue: the entire backend service is offline and nobody can use it,Infrastructure,Critical
+Urgent issue: the entire finance department has lost network connectivity,Network,High
+I am unable to authenticate to company email,Account Access,Medium
+There is an unexpected charge for software license,Billing,Medium
+Urgent issue: an important feature in Microsoft Teams has completely stopped working,Software,High
+Support needed: i received an unexpected security alert from admin dashboard,Security,Medium
+Please explain a charge for monthly subscription,Billing,Low
+I need assistance because my cloud account account was disabled and important work is blocked,Account Access,High
+Please help. the password reset link for Microsoft 365 has expired,Account Access,Low
+Please help. the production environment is unavailable for many users,Infrastructure,High
+I need assistance because internet latency is very high in the branch office,Network,Medium
+Urgent issue: accounting software crashes when I try to open a file,Software,Medium
+Support needed: i cannot access my HR portal account after several attempts,Account Access,Medium
+company application stops responding after a few minutes,Software,Medium
+I cannot remember my customer portal password,Account Access,Low
+The cloud platform keeps crashing during business hours,Infrastructure,High
+The backend service is experiencing a serious service disruption,Infrastructure,High
+I need assistance because malware has infected systems connected to customer portal,Security,Critical
+Support needed: i received a suspicious email related to HR portal,Security,Medium
+Please help. the database server is responding slowly to requests,Infrastructure,Medium
+Support needed: my company laptop continuously restarts and I cannot work,Hardware,High
+Urgent issue: microsoft Teams crashes when I try to open a file,Software,Medium
+Please help. internet speed is slightly slow in the main office,Network,Low
+I urgently need access to employee portal for business operations,Account Access,High
+company application is completely unusable and blocking my work,Software,High
+Network access is completely unavailable in the support department,Network,High
+company application failure is preventing the team from completing critical work,Software,High
+I received a suspicious email related to customer portal,Security,Medium
+Support needed: administrator credentials for cloud account have been compromised,Security,Critical
+Please help. wiFi coverage is poor in the meeting area,Network,Low
+I need assistance because my employee portal account is locked,Account Access,Medium
+My credentials are being rejected by employee portal,Account Access,Medium
+I need assistance because please provide the receipt for company purchase,Billing,Low
+Urgent issue: some employees are having trouble accessing the database server,Infrastructure,Medium
+Please help. my desktop computer continuously restarts and I cannot work,Hardware,High
+I need assistance because employees in the main office cannot connect to the company VPN,Network,High
+Outlook displays an unexpected error,Software,Medium
+Urgent issue: employees in the engineering floor cannot connect to the company VPN,Network,High
+Please help. the internal portal has completely crashed for all users,Infrastructure,Critical
+Urgent issue: a suspicious attachment was sent to my customer portal account,Security,Medium
+My office computer screen flashes while I am working,Hardware,Medium
+I cannot access my company email account after several attempts,Account Access,Medium
+Support needed: company application displays an unexpected error,Software,Medium
+The production server is experiencing a serious service disruption,Infrastructure,High
+I need assistance because cRM application is completely unusable and blocking my work,Software,High
+Please help. microsoft Teams closes unexpectedly when I use it,Software,Medium
+Urgent issue: someone logged into my employee portal account without permission,Security,High
+desktop application is completely unusable and blocking my work,Software,High
+Support needed: excel stops responding after a few minutes,Software,Medium
+The connection becomes unstable throughout the day in the branch office,Network,Medium
+Some employees are having trouble accessing the web application,Infrastructure,Medium
+The meeting area cannot connect to the corporate network,Network,High
+The backend service is unavailable company wide,Infrastructure,Critical
+I need assistance because company application crashes continuously for several employees,Software,High
+Urgent issue: my company laptop is making a strange noise,Hardware,Low
+Some employees are having trouble accessing the database server,Infrastructure,Medium
+Support needed: sensitive company data from employee portal may have been stolen,Security,Critical
+Please help. my HR portal account was disabled and important work is blocked,Account Access,High
+My access to admin dashboard suddenly stopped during critical work,Account Access,High
+Employees keep losing network connectivity in the main office,Network,Medium
+I cannot access my employee portal account after several attempts,Account Access,Medium
+Support needed: malware has infected systems connected to company email,Security,Critical
+Urgent issue: internet latency is very high in the meeting area,Network,Medium
+I received a phishing message asking for my cloud account password,Security,High
+Urgent issue: suspicious activity was detected on my employee portal account,Security,High
+ERP system failure is preventing the team from completing critical work,Software,High
+Internet disconnects several times a day in the meeting area,Network,Medium
+Please help. my refund for company purchase has not arrived,Billing,Medium
+Support needed: network performance is inconsistent in the branch office,Network,Low
+Urgent issue: desktop application failure is preventing the team from completing critical work,Software,High
+I need assistance because the connection becomes unstable throughout the day in the meeting area,Network,Medium
+The customer platform is experiencing a serious service disruption,Infrastructure,High
+Urgent issue: confidential information from company email was accessed without permission,Security,Critical
+An attacker gained administrator access to company email,Security,Critical
+A duplicate charge appeared for service plan,Billing,High
+Malware has infected systems connected to company email,Security,Critical
+WiFi signal is weak in the engineering floor,Network,Low
+My workstation continuously restarts and I cannot work,Hardware,High
+Many employees cannot access the production server,Infrastructure,High
+I cannot sign into employee portal,Account Access,Medium
+A security breach exposed confidential data in HR portal,Security,Critical
+Support needed: i need help configuring company application,Software,Low
+My Microsoft 365 account is locked,Account Access,Medium
+accounting software installation fails on my computer,Software,Low
+company application closes whenever I try to read a message,Software,Medium
+The database server keeps crashing during business hours,Infrastructure,High
+Please help. i forgot my password for HR portal,Account Access,Low
+Support needed: the internal portal is unavailable for many users,Infrastructure,High
+Urgent issue: confidential information from customer portal was accessed without permission,Security,Critical
+WiFi coverage is poor in the support department,Network,Low
+I urgently need access to company account for business operations,Account Access,High
+Please help. a duplicate charge appeared for service plan,Billing,High
+Many employees cannot access the web application,Infrastructure,High
+WiFi signal is weak in the meeting area,Network,Low
+Payment failed but money was deducted for monthly subscription,Billing,High
+I need assistance because i cannot sign into employee portal,Account Access,Medium
+My workstation overheats and shuts down occasionally,Hardware,Medium
+My refund for service plan is delayed,Billing,Medium
+The display on my workstation keeps flickering,Hardware,Medium
+Please send me a password reset for employee portal,Account Access,Low
+I need assistance because my refund for service plan is delayed,Billing,Medium
+Please help. there was an unusual login attempt on employee portal,Security,Medium
+My customer portal credentials may have been compromised,Security,High
+Urgent issue: i am unable to authenticate to cloud account,Account Access,Medium
+The customer platform is unavailable company wide,Infrastructure,Critical
+Urgent issue: excel crashes when I try to open a file,Software,Medium
+I received an unexpected security alert from HR portal,Security,Medium
+My access to employee portal suddenly stopped during critical work,Account Access,High
+Please help. the web application is running unusually slowly,Infrastructure,Medium
+Urgent issue: i cannot access my company account account after several attempts,Account Access,Medium
+My employee portal credentials may have been compromised,Security,High
+I need assistance because the database server has completely crashed for all users,Infrastructure,Critical
+I need help resetting my password for employee portal,Account Access,Low
+Please help. a suspicious attachment was sent to my company account account,Security,Medium
+Please help. my account was charged multiple times for service plan,Billing,High
+The keyboard on my company laptop has a few keys that do not work,Hardware,Low
+Please help. all customers have lost access to the production server,Infrastructure,Critical
+Urgent issue: the network connection keeps dropping in the finance department,Network,Medium
+Someone logged into my employee portal account without permission,Security,High
+ERP system crashes when I try to open a file,Software,Medium
+Please help. i cannot remember my cloud account password,Account Access,Low
+I need billing details for service plan,Billing,Low
+Support needed: the production environment has completely crashed for all users,Infrastructure,Critical
+Urgent issue: the entire main office has lost network connectivity,Network,High
+My access to cloud account suddenly stopped during critical work,Account Access,High
+I was charged the wrong price for cloud subscription,Billing,Medium
+Suspicious activity was detected on my customer portal account,Security,High
+The cloud platform is responding slowly to requests,Infrastructure,Medium
+Urgent issue: suspicious activity was detected on my admin dashboard account,Security,High
+CRM application closes unexpectedly when I use it,Software,Medium
+Employees in the meeting area cannot connect to the company VPN,Network,High
+There is an unexpected charge for cloud subscription,Billing,Medium
+The password reset link for customer portal has expired,Account Access,Low
+Support needed: performance of the cloud platform has degraded,Infrastructure,Medium
+All customers have lost access to the database server,Infrastructure,Critical
+I need assistance because malware has infected systems connected to company account,Security,Critical
+Urgent issue: the mouse connected to my office computer is not responding correctly,Hardware,Low
+I am unable to authenticate to admin dashboard,Account Access,Medium
+I need assistance because my laptop continuously restarts and I cannot work,Hardware,High
+I need help installing company application,Software,Low
+The production web application is down across the organization,Infrastructure,Critical
+Someone may have stolen my HR portal login credentials,Security,High
+Urgent issue: sensitive company data from customer portal may have been stolen,Security,Critical
+A suspicious attachment was sent to my employee portal account,Security,Medium
+Please help. i cannot access my employee portal account after several attempts,Account Access,Medium
+There is a complete outage of the backend service,Infrastructure,Critical
+The production cloud platform is down across the organization,Infrastructure,Critical
+Support needed: network access is completely unavailable in the branch office,Network,High
+There was an unusual login attempt on customer portal,Security,Medium
+I need billing details for support plan,Billing,Low
+The entire meeting area has lost network connectivity,Network,High
+My refund for company purchase has not arrived,Billing,Medium
+I need assistance because desktop application crashes continuously for several employees,Software,High
+Where can I download my support plan invoice,Billing,Low
+Please help. my account was charged multiple times for support plan,Billing,High
+I forgot my password for HR portal,Account Access,Low
+accounting software crashes whenever I open it,Software,Medium
+I need assistance because an important feature in ERP system has completely stopped working,Software,High
+Urgent issue: i received an unexpected security alert from company account,Security,Medium
+My desktop computer is making a strange noise,Hardware,Low
+My laptop will not turn on,Hardware,High
+Please help. the keyboard on my workstation has a few keys that do not work,Hardware,Low
+CRM application displays an unexpected error,Software,Medium
+Performance of the customer platform has degraded,Infrastructure,Medium
+My customer portal account was disabled and important work is blocked,Account Access,High
+Internet disconnects several times a day in the branch office,Network,Medium
+My desktop computer continuously restarts and I cannot work,Hardware,High
+Urgent issue: i urgently need access to company email for business operations,Account Access,High
+The amount on my service plan invoice is incorrect,Billing,Medium
+Please explain a charge for service plan,Billing,Low
+The database server is unavailable company wide,Infrastructure,Critical
+There is a complete outage of the web application,Infrastructure,Critical
+Employees in the support department cannot connect to the company VPN,Network,High
+Please help. microsoft Teams crashes whenever I open it,Software,Medium
+Please help. there was an unusual login attempt on company email,Security,Medium
+Internet speed is slightly slow in the branch office,Network,Low
+Support needed: my workstation shuts down immediately after startup,Hardware,High
+Support needed: the cloud platform is unavailable for many users,Infrastructure,High
+Excel closes whenever I try to read a message,Software,Medium
+Support needed: i want to change my customer portal password,Account Access,Low
+Urgent issue: someone logged into my customer portal account without permission,Security,High
+Support needed: microsoft Teams closes whenever I try to read a message,Software,Medium
+Urgent issue: the latest update for CRM application will not install,Software,Low
+Urgent issue: my access to Microsoft 365 suddenly stopped during critical work,Account Access,High
+The network connection keeps dropping in the main office,Network,Medium
+An attacker gained administrator access to customer portal,Security,Critical
+Urgent issue: suspicious activity was detected on my customer portal account,Security,High
+I need assistance because my employee portal account was disabled and important work is blocked,Account Access,High
+I need assistance because the production environment is unavailable company wide,Infrastructure,Critical
+The internal portal has completely crashed for all users,Infrastructure,Critical
+Confidential information from company email was accessed without permission,Security,Critical
+Support needed: i need billing details for support plan,Billing,Low
+Microsoft Teams freezes during normal work,Software,Medium
+My admin dashboard account was disabled and important work is blocked,Account Access,High
+The monitor connected to my desktop computer keeps disconnecting,Hardware,Medium
+Urgent issue: desktop application crashes when I try to open a file,Software,Medium
+Administrator credentials for employee portal have been compromised,Security,Critical
+Please provide the receipt for support plan,Billing,Low
+I need assistance because some employees are having trouble accessing the backend service,Infrastructure,Medium
+WiFi disconnects frequently in the support department,Network,Medium
+Urgent issue: a major component of the production server is failing,Infrastructure,High
+Urgent issue: i have completely lost access to employee portal and cannot continue working,Account Access,High
+Excel closes unexpectedly when I use it,Software,Medium
+I need assistance because an important feature in company application has completely stopped working,Software,High
+Please help. there is a complete outage of the internal portal,Infrastructure,Critical
+I was billed twice for the same monthly subscription,Billing,High
+The cloud platform is unavailable company wide,Infrastructure,Critical
+Network access is completely unavailable in the finance department,Network,High
+Support needed: i have completely lost access to cloud account and cannot continue working,Account Access,High
+Some employees are having trouble accessing the cloud platform,Infrastructure,Medium
+Urgent issue: company application freezes during normal work,Software,Medium
+The latest update for company application will not install,Software,Low
+I need assistance because the production server keeps crashing during business hours,Infrastructure,High
+I have completely lost access to cloud account and cannot continue working,Account Access,High
+The entire database server is offline and nobody can use it,Infrastructure,Critical
+Support needed: the desktop computer has completely stopped working,Hardware,High
+I need assistance because my company laptop will not turn on,Hardware,High
+Please help. the latest update for Microsoft Teams will not install,Software,Low
+I want to change my cloud account password,Account Access,Low
+Someone logged into my admin dashboard account without permission,Security,High
+Support needed: microsoft Teams crashes continuously for several employees,Software,High
+I need help resetting my password for HR portal,Account Access,Low
+The latest update for Excel will not install,Software,Low
+I need assistance because someone logged into my Microsoft 365 account without permission,Security,High
+Malware has infected systems connected to company account,Security,Critical
+The entire engineering floor has lost network connectivity,Network,High
+The printer connected to my company laptop has a minor issue,Hardware,Low
+desktop application failure is preventing the team from completing critical work,Software,High
+WiFi coverage is poor in the finance department,Network,Low
+Urgent issue: my workstation is making a strange noise,Hardware,Low
+The customer platform is unavailable for many users,Infrastructure,High
+Urgent issue: eRP system closes whenever I try to read a message,Software,Medium
+An attacker gained administrator access to HR portal,Security,Critical
+Please help. a suspicious attachment was sent to my cloud account account,Security,Medium
+I need assistance because the production environment keeps crashing during business hours,Infrastructure,High
+My company account account was disabled and important work is blocked,Account Access,High
+The office computer freezes randomly during work,Hardware,Medium
+Microsoft Teams closes unexpectedly when I use it,Software,Medium
+I need assistance because outlook crashes whenever I open it,Software,Medium
+I want to change my customer portal password,Account Access,Low
+Network performance is inconsistent in the branch office,Network,Low
+desktop application freezes during normal work,Software,Medium
+The web application is responding slowly to requests,Infrastructure,Medium
+A suspicious attachment was sent to my HR portal account,Security,Medium
+Payment failed but money was deducted for cloud subscription,Billing,High
+Internet speed is slightly slow in the support department,Network,Low
+The amount on my company purchase invoice is incorrect,Billing,Medium
+Support needed: there is a complete outage of the production environment,Infrastructure,Critical
+I need assistance because i need help configuring ERP system,Software,Low
+Urgent issue: my refund for company purchase is delayed,Billing,Medium
+Please help. the customer platform is experiencing a serious service disruption,Infrastructure,High
+Support needed: many employees cannot access the cloud platform,Infrastructure,High
+An important feature in CRM application has completely stopped working,Software,High
+Urgent issue: the web application is responding slowly to requests,Infrastructure,Medium
+I need assistance because confidential information from cloud account was accessed without permission,Security,Critical
+Support needed: my customer portal account was disabled and important work is blocked,Account Access,High
+I need assistance because my desktop computer is making a strange noise,Hardware,Low
+I need help installing Outlook,Software,Low
+The customer platform is responding slowly to requests,Infrastructure,Medium
+I need assistance because the password reset link for cloud account has expired,Account Access,Low
+Urgent issue: excel freezes during normal work,Software,Medium
+Please help. my company email account was disabled and important work is blocked,Account Access,High
+The laptop freezes randomly during work,Hardware,Medium
+ERP system displays an unexpected error,Software,Medium
+Support needed: administrator credentials for Microsoft 365 have been compromised,Security,Critical
+I need billing details for monthly subscription,Billing,Low
+I received a suspicious email related to cloud account,Security,Medium
+Someone logged into my company email account without permission,Security,High
+I need assistance because an important feature in Excel has completely stopped working,Software,High
+Sensitive company data from company account may have been stolen,Security,Critical
+Please help. wiFi signal is weak in the support department,Network,Low
+I was billed twice for the same service plan,Billing,High
+WiFi coverage is poor in the main office,Network,Low
+I need billing details for software license,Billing,Low
+Urgent issue: the backend service is unavailable company wide,Infrastructure,Critical
+Please help. the cloud platform is running unusually slowly,Infrastructure,Medium
+I have completely lost access to HR portal and cannot continue working,Account Access,High
+I was billed twice for the same support plan,Billing,High
+desktop application installation fails on my computer,Software,Low
+I urgently need access to HR portal for business operations,Account Access,High
+I received an unexpected security alert from cloud account,Security,Medium
+The production production environment is down across the organization,Infrastructure,Critical
+Urgent issue: my company laptop overheats and shuts down occasionally,Hardware,Medium
+I forgot my password for Microsoft 365,Account Access,Low
+Support needed: i received a phishing message asking for my cloud account password,Security,High
+Support needed: microsoft Teams failure is preventing the team from completing critical work,Software,High
+The display on my laptop keeps flickering,Hardware,Medium
+Please help. the company laptop has completely stopped working,Hardware,High
+Please help. the entire production environment for production server has gone offline,Infrastructure,Critical
+The production server keeps crashing during business hours,Infrastructure,High
+Performance of the web application has degraded,Infrastructure,Medium
+Excel crashes continuously for several employees,Software,High
+CRM application installation fails on my computer,Software,Low
+I need assistance because my employee portal credentials may have been compromised,Security,High
+Urgent issue: my desktop computer will not turn on,Hardware,High
+I want to change my company account password,Account Access,Low
+Urgent issue: wiFi signal is weak in the engineering floor,Network,Low
+Money was taken even though the support plan transaction failed,Billing,High
+The entire production environment for web application has gone offline,Infrastructure,Critical
+My admin dashboard credentials may have been compromised,Security,High
+Urgent issue: the display on my laptop keeps flickering,Hardware,Medium
+I cannot sign into cloud account,Account Access,Medium
+My Microsoft 365 credentials may have been compromised,Security,High
+Please help. the entire production environment for internal portal has gone offline,Infrastructure,Critical
+I need assistance because a major component of the internal portal is failing,Infrastructure,High
+I need assistance because sensitive company data from cloud account may have been stolen,Security,Critical
+Please help. the finance department cannot connect to the corporate network,Network,High
+company application crashes continuously for several employees,Software,High
+Internet disconnects several times a day in the finance department,Network,Medium
+The latest update for Outlook will not install,Software,Low
+The entire customer platform is offline and nobody can use it,Infrastructure,Critical
+company application freezes during normal work,Software,Medium
+Please help. payment failed but money was deducted for service plan,Billing,High
+I cannot access my cloud account account after several attempts,Account Access,Medium
+Urgent issue: please send me a password reset for Microsoft 365,Account Access,Low
+Please provide the receipt for company purchase,Billing,Low
+Where can I download my service plan invoice,Billing,Low
+The production environment is unavailable for many users,Infrastructure,High
+I need assistance because internet disconnects several times a day in the support department,Network,Medium
+I received an unexpected security alert from customer portal,Security,Medium
+I cannot remember my company email password,Account Access,Low
+Please help. i cannot access my customer portal account after several attempts,Account Access,Medium
+I need help configuring CRM application,Software,Low
+Network performance is inconsistent in the main office,Network,Low
+Urgent issue: the monitor connected to my desktop computer keeps disconnecting,Hardware,Medium
+Malware has infected systems connected to cloud account,Security,Critical
+I have completely lost access to employee portal and cannot continue working,Account Access,High
+My laptop overheats and shuts down occasionally,Hardware,Medium
+Outlook closes unexpectedly when I use it,Software,Medium
+There is an unexpected charge for service plan,Billing,Medium
+I need assistance because the connection becomes unstable throughout the day in the main office,Network,Medium
+Support needed: payment failed but money was deducted for company purchase,Billing,High
+Support needed: my credentials are being rejected by employee portal,Account Access,Medium
+My access to company account suddenly stopped during critical work,Account Access,High
+I urgently need access to customer portal for business operations,Account Access,High
+Please help. my laptop overheats and shuts down occasionally,Hardware,Medium
+Support needed: the amount on my monthly subscription invoice is incorrect,Billing,Medium
+Support needed: there is an unexpected charge for software license,Billing,Medium
+An important feature in accounting software has completely stopped working,Software,High
+The database server is unavailable for many users,Infrastructure,High
+Internet latency is very high in the engineering floor,Network,Medium
+I need assistance because the password reset link for employee portal has expired,Account Access,Low
+Please help. my access to admin dashboard suddenly stopped during critical work,Account Access,High
+Support needed: performance of the production server has degraded,Infrastructure,Medium
+Please help. internet speed is slightly slow in the engineering floor,Network,Low
+Some employees are having trouble accessing the backend service,Infrastructure,Medium
+I need assistance because where can I download my cloud subscription invoice,Billing,Low
+Urgent issue: the latest update for desktop application will not install,Software,Low
+The latest update for ERP system will not install,Software,Low
+Support needed: the web application is unavailable for many users,Infrastructure,High
+Urgent issue: the workstation has completely stopped working,Hardware,High
+I have completely lost access to company account and cannot continue working,Account Access,High
+I need assistance because i have completely lost access to company account and cannot continue working,Account Access,High
+I need assistance because suspicious activity was detected on my company account account,Security,High
+Some employees are having trouble accessing the internal portal,Infrastructure,Medium
+I need assistance because i was billed twice for the same cloud subscription,Billing,High
+Microsoft Teams crashes whenever I open it,Software,Medium
+The connection becomes unstable throughout the day in the support department,Network,Medium
+My refund for support plan is delayed,Billing,Medium
+Login to employee portal keeps failing,Account Access,Medium
+I need billing details for cloud subscription,Billing,Low
+Please send me a password reset for Microsoft 365,Account Access,Low
+The workstation freezes randomly during work,Hardware,Medium
+Urgent issue: internet disconnects several times a day in the meeting area,Network,Medium
+Internet speed is slightly slow in the engineering floor,Network,Low
+Please help. all customers have lost access to the internal portal,Infrastructure,Critical
+Please help. accounting software is completely unusable and blocking my work,Software,High
+Support needed: i cannot remember my company email password,Account Access,Low
+Urgent issue: a suspicious attachment was sent to my Microsoft 365 account,Security,Medium
+Urgent issue: excel closes whenever I try to read a message,Software,Medium
+Network performance is inconsistent in the meeting area,Network,Low
+The workstation has completely stopped working,Hardware,High
+Someone logged into my HR portal account without permission,Security,High
+Network access is completely unavailable in the branch office,Network,High
+desktop application displays an unexpected error,Software,Medium
+Urgent issue: all customers have lost access to the web application,Infrastructure,Critical
+There is a complete outage of the internal portal,Infrastructure,Critical
+The finance department cannot connect to the corporate network,Network,High
+Sensitive company data from admin dashboard may have been stolen,Security,Critical
+I am unable to authenticate to customer portal,Account Access,Medium
+Urgent issue: suspicious activity was detected on my Microsoft 365 account,Security,High
+Support needed: there is an unexpected charge for cloud subscription,Billing,Medium
+I need assistance because internet speed is slightly slow in the meeting area,Network,Low
+I need assistance because i am unable to authenticate to company account,Account Access,Medium
+Suspicious activity was detected on my company email account,Security,High
+Support needed: employees keep losing network connectivity in the support department,Network,Medium
+I received a phishing message asking for my company email password,Security,High
+I need assistance because eRP system stops responding after a few minutes,Software,Medium
+I need help configuring accounting software,Software,Low
+CRM application is completely unusable and blocking my work,Software,High
+I need assistance because the latest update for Outlook will not install,Software,Low
+I need help installing Excel,Software,Low
+Someone logged into my cloud account account without permission,Security,High
+Internet latency is very high in the finance department,Network,Medium
+I need assistance because please send me a password reset for company account,Account Access,Low
+My company laptop is making a strange noise,Hardware,Low
+Support needed: a security breach exposed confidential data in company email,Security,Critical
+Please help. there is an unexpected charge for support plan,Billing,Medium
+Urgent issue: an attacker gained administrator access to company email,Security,Critical
+Support needed: my office computer continuously restarts and I cannot work,Hardware,High
+Performance of the cloud platform has degraded,Infrastructure,Medium
+Money was taken even though the company purchase transaction failed,Billing,High
+The hard drive in my laptop appears to have failed,Hardware,High
+I need assistance because cRM application freezes during normal work,Software,Medium
+The production database server is down across the organization,Infrastructure,Critical
+I need help configuring desktop application,Software,Low
+Support needed: cRM application crashes continuously for several employees,Software,High
+Many employees cannot access the cloud platform,Infrastructure,High
+My company laptop continuously restarts and I cannot work,Hardware,High
+Where can I download my software license invoice,Billing,Low
+The monitor connected to my laptop keeps disconnecting,Hardware,Medium
+Urgent issue: i received an unexpected security alert from HR portal,Security,Medium
+Please explain a charge for software license,Billing,Low
+Microsoft Teams crashes continuously for several employees,Software,High
+Please help. i cannot remember my company account password,Account Access,Low
+Support needed: i received a phishing message asking for my employee portal password,Security,High
+Urgent issue: eRP system is completely unusable and blocking my work,Software,High
+I need assistance because internet disconnects several times a day in the main office,Network,Medium
+The monitor connected to my company laptop keeps disconnecting,Hardware,Medium
+Support needed: where can I download my monthly subscription invoice,Billing,Low
+Someone may have stolen my customer portal login credentials,Security,High
+The internal portal is responding slowly to requests,Infrastructure,Medium
+Urgent issue: please send me a password reset for customer portal,Account Access,Low
+Urgent issue: i need help configuring CRM application,Software,Low
+The password reset link for employee portal has expired,Account Access,Low
+accounting software is completely unusable and blocking my work,Software,High
+desktop application crashes whenever I open it,Software,Medium
+Microsoft Teams is completely unusable and blocking my work,Software,High
+Please help. there is an unexpected charge for company purchase,Billing,Medium
+My employee portal account is locked,Account Access,Medium
+Where can I download my cloud subscription invoice,Billing,Low
+Urgent issue: the entire support department has lost network connectivity,Network,High
+Urgent issue: administrator credentials for customer portal have been compromised,Security,Critical
+I need assistance because my HR portal credentials may have been compromised,Security,High
+Outlook freezes during normal work,Software,Medium
+My company account account is locked,Account Access,Medium
+I have completely lost access to company email and cannot continue working,Account Access,High
+company application crashes when I try to open a file,Software,Medium
+My HR portal credentials may have been compromised,Security,High
+I need help installing desktop application,Software,Low
+I cannot sign into company account,Account Access,Medium
+I cannot sign into HR portal,Account Access,Medium
+The mouse connected to my workstation is not responding correctly,Hardware,Low
+I cannot sign into customer portal,Account Access,Medium
+Support needed: a major component of the web application is failing,Infrastructure,High
+My account was charged multiple times for company purchase,Billing,High
+The cloud platform has completely crashed for all users,Infrastructure,Critical
+Support needed: i need help resetting my password for customer portal,Account Access,Low
+My credentials are being rejected by cloud account,Account Access,Medium
+Please help. the production production server is down across the organization,Infrastructure,Critical
+A major component of the production server is failing,Infrastructure,High
+The company laptop has completely stopped working,Hardware,High
+My access to customer portal suddenly stopped during critical work,Account Access,High
+Support needed: the hard drive in my company laptop appears to have failed,Hardware,High
+desktop application crashes continuously for several employees,Software,High
+I urgently need access to Microsoft 365 for business operations,Account Access,High
+ERP system is completely unusable and blocking my work,Software,High
+Employees in the main office cannot connect to the company VPN,Network,High
+Outlook is completely unusable and blocking my work,Software,High
+A duplicate charge appeared for monthly subscription,Billing,High
+Support needed: my company account account was disabled and important work is blocked,Account Access,High
+There is a complete outage of the cloud platform,Infrastructure,Critical
+Please help. i cannot sign into company email,Account Access,Medium
+Confidential information from company account was accessed without permission,Security,Critical
+The entire support department has lost network connectivity,Network,High
+The latest update for Microsoft Teams will not install,Software,Low
+Urgent issue: the amount on my company purchase invoice is incorrect,Billing,Medium
+Someone logged into my Microsoft 365 account without permission,Security,High
+WiFi coverage is poor in the branch office,Network,Low
+The monitor connected to my office computer keeps disconnecting,Hardware,Medium
+I need assistance because wiFi signal is weak in the branch office,Network,Low
+The production environment is experiencing a serious service disruption,Infrastructure,High
+Support needed: payment failed but money was deducted for software license,Billing,High
+ERP system closes unexpectedly when I use it,Software,Medium
+My HR portal account was disabled and important work is blocked,Account Access,High
+The database server is responding slowly to requests,Infrastructure,Medium
+Please help. i need help installing company application,Software,Low
+Some employees are having trouble accessing the production environment,Infrastructure,Medium
+My laptop is making a strange noise,Hardware,Low
+I received a suspicious email related to company account,Security,Medium
+There was an unusual login attempt on HR portal,Security,Medium
+Support needed: the customer platform has completely crashed for all users,Infrastructure,Critical
+Employees keep losing network connectivity in the branch office,Network,Medium
+WiFi coverage is poor in the engineering floor,Network,Low
+I need a copy of my invoice for service plan,Billing,Low
+desktop application crashes when I try to open a file,Software,Medium
+accounting software displays an unexpected error,Software,Medium
+Support needed: the database server keeps crashing during business hours,Infrastructure,High
+A suspicious attachment was sent to my company email account,Security,Medium
+Please help. excel crashes whenever I open it,Software,Medium
+Support needed: company application closes whenever I try to read a message,Software,Medium
+I am unable to authenticate to cloud account,Account Access,Medium
+Employees keep losing network connectivity in the support department,Network,Medium
+Excel freezes during normal work,Software,Medium
+I need assistance because login to company account keeps failing,Account Access,Medium
+The production environment is responding slowly to requests,Infrastructure,Medium
+Microsoft Teams displays an unexpected error,Software,Medium
+The display on my company laptop keeps flickering,Hardware,Medium
+My desktop computer will not turn on,Hardware,High
+My credentials are being rejected by customer portal,Account Access,Medium
+Support needed: i received a phishing message asking for my HR portal password,Security,High
+Support needed: the database server is running unusually slowly,Infrastructure,Medium
+Please help. i need billing details for service plan,Billing,Low
+Urgent issue: outlook crashes when I try to open a file,Software,Medium
+The amount on my monthly subscription invoice is incorrect,Billing,Medium
+Please help. please explain a charge for service plan,Billing,Low
+I need assistance because i need a copy of my invoice for company purchase,Billing,Low
+Please help. someone logged into my HR portal account without permission,Security,High
+Administrator credentials for cloud account have been compromised,Security,Critical
+Payment failed but money was deducted for support plan,Billing,High
+Please send me a password reset for admin dashboard,Account Access,Low
+Please help. my company account credentials may have been compromised,Security,High
+The hard drive in my desktop computer appears to have failed,Hardware,High
+I need assistance because desktop application closes unexpectedly when I use it,Software,Medium
+Please help. my refund for support plan has not arrived,Billing,Medium
+My refund for cloud subscription is delayed,Billing,Medium
+I need assistance because i cannot sign into cloud account,Account Access,Medium
+The entire internal portal is offline and nobody can use it,Infrastructure,Critical
+WiFi disconnects frequently in the finance department,Network,Medium
+Urgent issue: employees keep losing network connectivity in the finance department,Network,Medium
+I need assistance because i need help installing ERP system,Software,Low
+My refund for company purchase is delayed,Billing,Medium
+Employees keep losing network connectivity in the engineering floor,Network,Medium
+The password reset link for company account has expired,Account Access,Low
+I need assistance because there was an unusual login attempt on Microsoft 365,Security,Medium
+Support needed: the support department cannot connect to the corporate network,Network,High
+Malware has infected systems connected to customer portal,Security,Critical
+My account was charged multiple times for software license,Billing,High
+I received a suspicious email related to admin dashboard,Security,Medium
+I need assistance because i was charged the wrong price for support plan,Billing,Medium
+The web application is experiencing a serious service disruption,Infrastructure,High
+The customer platform has completely crashed for all users,Infrastructure,Critical
+Internet disconnects several times a day in the engineering floor,Network,Medium
+I cannot sign into company email,Account Access,Medium
+Please help. i need help resetting my password for admin dashboard,Account Access,Low
+Urgent issue: malware has infected systems connected to HR portal,Security,Critical
+The printer connected to my laptop has a minor issue,Hardware,Low
+Please help. i forgot my password for customer portal,Account Access,Low
+Urgent issue: there was an unusual login attempt on cloud account,Security,Medium
+Urgent issue: employees keep losing network connectivity in the branch office,Network,Medium
+Support needed: a major component of the backend service is failing,Infrastructure,High
+Please help. the cloud platform is unavailable company wide,Infrastructure,Critical
+The cloud platform is experiencing a serious service disruption,Infrastructure,High
+My laptop continuously restarts and I cannot work,Hardware,High
+The backend service has completely crashed for all users,Infrastructure,Critical
+A security breach exposed confidential data in admin dashboard,Security,Critical
+I need a copy of my invoice for monthly subscription,Billing,Low
+I need assistance because login to HR portal keeps failing,Account Access,Medium
+CRM application stops responding after a few minutes,Software,Medium
+I need assistance because please explain a charge for support plan,Billing,Low
+CRM application crashes whenever I open it,Software,Medium
+The production server is unavailable for many users,Infrastructure,High
+I need assistance because microsoft Teams is completely unusable and blocking my work,Software,High
+Suspicious activity was detected on my cloud account account,Security,High
+Support needed: the connection becomes unstable throughout the day in the support department,Network,Medium
+Confidential information from cloud account was accessed without permission,Security,Critical
+An important feature in ERP system has completely stopped working,Software,High
+The company laptop freezes randomly during work,Hardware,Medium
+ERP system crashes whenever I open it,Software,Medium
+Please help. money was taken even though the software license transaction failed,Billing,High
+The hard drive in my office computer appears to have failed,Hardware,High
+The amount on my software license invoice is incorrect,Billing,Medium
+I have completely lost access to Microsoft 365 and cannot continue working,Account Access,High
+Please help. sensitive company data from admin dashboard may have been stolen,Security,Critical
+My refund for software license is delayed,Billing,Medium
+The password reset link for admin dashboard has expired,Account Access,Low
+The entire backend service is offline and nobody can use it,Infrastructure,Critical
+The web application is unavailable company wide,Infrastructure,Critical
+A major component of the backend service is failing,Infrastructure,High
+Internet speed is slightly slow in the main office,Network,Low
+There is a complete outage of the database server,Infrastructure,Critical
+Malware has infected systems connected to employee portal,Security,Critical
+I need assistance because i urgently need access to admin dashboard for business operations,Account Access,High
+I cannot access my Microsoft 365 account after several attempts,Account Access,Medium
+I need help resetting my password for customer portal,Account Access,Low
+Support needed: the workstation freezes randomly during work,Hardware,Medium
+I received a phishing message asking for my HR portal password,Security,High
+Urgent issue: network access is completely unavailable in the engineering floor,Network,High
+Microsoft Teams stops responding after a few minutes,Software,Medium
+My refund for cloud subscription has not arrived,Billing,Medium
+Please help. i need help configuring desktop application,Software,Low
+Someone may have stolen my admin dashboard login credentials,Security,High
+The customer platform keeps crashing during business hours,Infrastructure,High
+I cannot remember my employee portal password,Account Access,Low
+Administrator credentials for company email have been compromised,Security,Critical
+I need assistance because outlook stops responding after a few minutes,Software,Medium
+Support needed: an important feature in desktop application has completely stopped working,Software,High
+Please help. desktop application is completely unusable and blocking my work,Software,High
+Administrator credentials for customer portal have been compromised,Security,Critical
+I am unable to authenticate to HR portal,Account Access,Medium
+Support needed: performance of the internal portal has degraded,Infrastructure,Medium
+Please help. i need help installing CRM application,Software,Low
+Please help. the database server is unavailable company wide,Infrastructure,Critical
+Urgent issue: administrator credentials for company email have been compromised,Security,Critical
+The printer connected to my desktop computer has a minor issue,Hardware,Low
+Many employees cannot access the production environment,Infrastructure,High
+Please help. internet latency is very high in the engineering floor,Network,Medium
+The display on my desktop computer keeps flickering,Hardware,Medium
+The network connection keeps dropping in the finance department,Network,Medium
+I need assistance because the cloud platform is responding slowly to requests,Infrastructure,Medium
+I received a suspicious email related to employee portal,Security,Medium
+The entire production environment for customer platform has gone offline,Infrastructure,Critical
+Please help. the internal portal is experiencing a serious service disruption,Infrastructure,High
+Urgent issue: i need help resetting my password for company account,Account Access,Low
+I need help resetting my password for cloud account,Account Access,Low
+I need help resetting my password for company email,Account Access,Low
+The database server is running unusually slowly,Infrastructure,Medium
+Urgent issue: i want to change my cloud account password,Account Access,Low
+Please help. my Microsoft 365 credentials may have been compromised,Security,High
+I need assistance because i need help configuring Outlook,Software,Low
+I need assistance because the production database server is down across the organization,Infrastructure,Critical
+I received an unexpected security alert from company email,Security,Medium
+I need assistance because excel is completely unusable and blocking my work,Software,High
+I forgot my password for cloud account,Account Access,Low
+company application crashes whenever I open it,Software,Medium
+Many employees cannot access the internal portal,Infrastructure,High
+An attacker gained administrator access to Microsoft 365,Security,Critical
+Urgent issue: the entire production environment for database server has gone offline,Infrastructure,Critical
+Urgent issue: please explain a charge for company purchase,Billing,Low
+Urgent issue: an attacker gained administrator access to Microsoft 365,Security,Critical
+Urgent issue: i need help installing Microsoft Teams,Software,Low
+Network access is completely unavailable in the engineering floor,Network,High
+Support needed: there is a complete outage of the backend service,Infrastructure,Critical
+I need assistance because i received a suspicious email related to customer portal,Security,Medium
+Please help. login to employee portal keeps failing,Account Access,Medium
+Administrator credentials for company account have been compromised,Security,Critical
+Urgent issue: an attacker gained administrator access to cloud account,Security,Critical
+My desktop computer shuts down immediately after startup,Hardware,High
+Please help. the display on my desktop computer keeps flickering,Hardware,Medium
+Please help. my cloud account credentials may have been compromised,Security,High
+ERP system closes whenever I try to read a message,Software,Medium
+Urgent issue: accounting software crashes continuously for several employees,Software,High
+Support needed: someone logged into my company email account without permission,Security,High
+ERP system stops responding after a few minutes,Software,Medium
+Please provide the receipt for cloud subscription,Billing,Low
+I need assistance because many employees cannot access the internal portal,Infrastructure,High
+Urgent issue: administrator credentials for company account have been compromised,Security,Critical
+Support needed: i urgently need access to employee portal for business operations,Account Access,High
+Support needed: suspicious activity was detected on my company email account,Security,High
+My company laptop shuts down immediately after startup,Hardware,High
+Performance of the production environment has degraded,Infrastructure,Medium
+Excel stops responding after a few minutes,Software,Medium
+Support needed: where can I download my support plan invoice,Billing,Low
+The production server is responding slowly to requests,Infrastructure,Medium
+Microsoft Teams failure is preventing the team from completing critical work,Software,High
+My office computer continuously restarts and I cannot work,Hardware,High
+Urgent issue: i cannot access my cloud account account after several attempts,Account Access,Medium
+Urgent issue: my laptop screen flashes while I am working,Hardware,Medium
+There is an unexpected charge for support plan,Billing,Medium
+Urgent issue: my laptop is making a strange noise,Hardware,Low
+Urgent issue: the monitor connected to my company laptop keeps disconnecting,Hardware,Medium
+The keyboard on my office computer has a few keys that do not work,Hardware,Low
+Login to company email keeps failing,Account Access,Medium
+There was an unusual login attempt on admin dashboard,Security,Medium
+Suspicious activity was detected on my admin dashboard account,Security,High
+Please help. confidential information from HR portal was accessed without permission,Security,Critical
+My refund for monthly subscription is delayed,Billing,Medium
+I need assistance because outlook failure is preventing the team from completing critical work,Software,High
+Support needed: someone may have stolen my Microsoft 365 login credentials,Security,High
+The display on my office computer keeps flickering,Hardware,Medium
+Please help. the monitor connected to my laptop keeps disconnecting,Hardware,Medium
+There was an unusual login attempt on employee portal,Security,Medium
+Support needed: performance of the backend service has degraded,Infrastructure,Medium
+I need billing details for company purchase,Billing,Low
+Support needed: sensitive company data from company email may have been stolen,Security,Critical
+Please help. confidential information from Microsoft 365 was accessed without permission,Security,Critical
+Urgent issue: the engineering floor cannot connect to the corporate network,Network,High
+The production backend service is down across the organization,Infrastructure,Critical
+Please help. the internal portal is unavailable company wide,Infrastructure,Critical
+Please help. the customer platform keeps crashing during business hours,Infrastructure,High
+WiFi disconnects frequently in the branch office,Network,Medium
+Support needed: cRM application crashes whenever I open it,Software,Medium
+Urgent issue: the entire production environment for customer platform has gone offline,Infrastructure,Critical
+The entire production server is offline and nobody can use it,Infrastructure,Critical
+I need assistance because many employees cannot access the database server,Infrastructure,High
+The office computer has completely stopped working,Hardware,High
+CRM application freezes during normal work,Software,Medium
+Support needed: my company email account is locked,Account Access,Medium
+Someone logged into my customer portal account without permission,Security,High
+Urgent issue: i received an unexpected security alert from cloud account,Security,Medium
+The internal portal is unavailable for many users,Infrastructure,High
+I need assistance because someone logged into my admin dashboard account without permission,Security,High
+The amount on my support plan invoice is incorrect,Billing,Medium
+The database server is experiencing a serious service disruption,Infrastructure,High
+Support needed: some employees are having trouble accessing the internal portal,Infrastructure,Medium
+Urgent issue: someone may have stolen my company email login credentials,Security,High
+Urgent issue: my credentials are being rejected by company account,Account Access,Medium
+I need assistance because i cannot access my Microsoft 365 account after several attempts,Account Access,Medium
+A security breach exposed confidential data in cloud account,Security,Critical
+Urgent issue: malware has infected systems connected to cloud account,Security,Critical
+The production server has completely crashed for all users,Infrastructure,Critical
+My access to company email suddenly stopped during critical work,Account Access,High
+Excel is completely unusable and blocking my work,Software,High
+My employee portal account was disabled and important work is blocked,Account Access,High
+I need assistance because employees keep losing network connectivity in the meeting area,Network,Medium
+A duplicate charge appeared for cloud subscription,Billing,High
+Please help. administrator credentials for admin dashboard have been compromised,Security,Critical
+Support needed: my customer portal account is locked,Account Access,Medium
+I need assistance because i forgot my password for employee portal,Account Access,Low
+Please help. i am unable to authenticate to company email,Account Access,Medium
+My desktop computer screen flashes while I am working,Hardware,Medium
+Urgent issue: the entire engineering floor has lost network connectivity,Network,High
+Support needed: the entire meeting area has lost network connectivity,Network,High
+Please help. my desktop computer screen flashes while I am working,Hardware,Medium
+Performance of the internal portal has degraded,Infrastructure,Medium
+Urgent issue: confidential information from company account was accessed without permission,Security,Critical
+I need assistance because the latest update for accounting software will not install,Software,Low
+The mouse connected to my laptop is not responding correctly,Hardware,Low
+My laptop screen flashes while I am working,Hardware,Medium
+Where can I download my monthly subscription invoice,Billing,Low
+Support needed: payment failed but money was deducted for monthly subscription,Billing,High
+Please help. money was taken even though the support plan transaction failed,Billing,High
+Urgent issue: i was charged the wrong price for service plan,Billing,Medium
+I cannot sign into admin dashboard,Account Access,Medium
+I need assistance because there is a complete outage of the cloud platform,Infrastructure,Critical
+An important feature in Excel has completely stopped working,Software,High
+Payment failed but money was deducted for software license,Billing,High
+I need assistance because all customers have lost access to the cloud platform,Infrastructure,Critical
+I cannot remember my Microsoft 365 password,Account Access,Low
+Support needed: the production environment is experiencing a serious service disruption,Infrastructure,High
+Outlook installation fails on my computer,Software,Low
+I need assistance because wiFi disconnects frequently in the engineering floor,Network,Medium
+I was charged the wrong price for company purchase,Billing,Medium
+Please help. suspicious activity was detected on my cloud account account,Security,High
+Support needed: a security breach exposed confidential data in customer portal,Security,Critical
+Please help. microsoft Teams displays an unexpected error,Software,Medium
+Please help. a security breach exposed confidential data in Microsoft 365,Security,Critical
+All customers have lost access to the production environment,Infrastructure,Critical
+Support needed: wiFi disconnects frequently in the main office,Network,Medium
+There was an unusual login attempt on company email,Security,Medium
+Some employees are having trouble accessing the customer platform,Infrastructure,Medium
+Urgent issue: please provide the receipt for cloud subscription,Billing,Low
+Urgent issue: internet speed is slightly slow in the branch office,Network,Low
+The customer platform is running unusually slowly,Infrastructure,Medium
+The latest update for accounting software will not install,Software,Low
+Urgent issue: sensitive company data from Microsoft 365 may have been stolen,Security,Critical
+Please help. login to customer portal keeps failing,Account Access,Medium
+accounting software crashes continuously for several employees,Software,High
+Support needed: there is an unexpected charge for monthly subscription,Billing,Medium
+The web application is running unusually slowly,Infrastructure,Medium
+Someone may have stolen my Microsoft 365 login credentials,Security,High
+I cannot remember my company account password,Account Access,Low
+Support needed: eRP system installation fails on my computer,Software,Low
+My credentials are being rejected by HR portal,Account Access,Medium
+Urgent issue: administrator credentials for employee portal have been compromised,Security,Critical
+Urgent issue: my office computer will not turn on,Hardware,High
+Urgent issue: i received an unexpected security alert from employee portal,Security,Medium
+Please explain a charge for company purchase,Billing,Low
+My refund for monthly subscription has not arrived,Billing,Medium
+The entire branch office has lost network connectivity,Network,High
+There is a complete outage of the customer platform,Infrastructure,Critical
+My credentials are being rejected by Microsoft 365,Account Access,Medium
+My company email credentials may have been compromised,Security,High
+Urgent issue: my access to company account suddenly stopped during critical work,Account Access,High
+company application installation fails on my computer,Software,Low
+I need help configuring ERP system,Software,Low
+I want to change my HR portal password,Account Access,Low
+WiFi signal is weak in the branch office,Network,Low
+The connection becomes unstable throughout the day in the meeting area,Network,Medium
+I need assistance because my company email credentials may have been compromised,Security,High
+Please help. where can I download my software license invoice,Billing,Low
+I need help configuring Excel,Software,Low
+I want to change my company email password,Account Access,Low
+Please send me a password reset for HR portal,Account Access,Low
+There is a complete outage of the production server,Infrastructure,Critical
+Urgent issue: the entire production environment for production environment has gone offline,Infrastructure,Critical
+The entire production environment for backend service has gone offline,Infrastructure,Critical
+Someone may have stolen my company account login credentials,Security,High
+Please help. the entire branch office has lost network connectivity,Network,High
+The web application has completely crashed for all users,Infrastructure,Critical
+WiFi disconnects frequently in the main office,Network,Medium
+Please help. i forgot my password for admin dashboard,Account Access,Low
+My account was charged multiple times for monthly subscription,Billing,High
+My refund for software license has not arrived,Billing,Medium
+A duplicate charge appeared for support plan,Billing,High
+All customers have lost access to the customer platform,Infrastructure,Critical
+desktop application closes unexpectedly when I use it,Software,Medium
+WiFi signal is weak in the main office,Network,Low
+Support needed: my refund for cloud subscription is delayed,Billing,Medium
+Internet disconnects several times a day in the main office,Network,Medium
+I need assistance because i want to change my Microsoft 365 password,Account Access,Low
+The entire production environment for production environment has gone offline,Infrastructure,Critical
+I need assistance because login to admin dashboard keeps failing,Account Access,Medium
+Support needed: the backend service is running unusually slowly,Infrastructure,Medium
+The production server is unavailable company wide,Infrastructure,Critical
+Support needed: please send me a password reset for company email,Account Access,Low
+Support needed: my admin dashboard credentials may have been compromised,Security,High
+Performance of the production server has degraded,Infrastructure,Medium
+Please help. confidential information from employee portal was accessed without permission,Security,Critical
+The production server is running unusually slowly,Infrastructure,Medium
+Please help. my credentials are being rejected by company email,Account Access,Medium
+The entire production environment for cloud platform has gone offline,Infrastructure,Critical
+I need assistance because the web application has completely crashed for all users,Infrastructure,Critical
+There is a complete outage of the production environment,Infrastructure,Critical
+I need help resetting my password for company account,Account Access,Low
+Urgent issue: my refund for support plan is delayed,Billing,Medium
+I need assistance because an important feature in accounting software has completely stopped working,Software,High
+Urgent issue: money was taken even though the cloud subscription transaction failed,Billing,High
+I need assistance because login to company email keeps failing,Account Access,Medium
+Support needed: i need billing details for monthly subscription,Billing,Low
+I am unable to authenticate to company account,Account Access,Medium
+Support needed: accounting software crashes whenever I open it,Software,Medium
+Please help. eRP system freezes during normal work,Software,Medium
+Please help. payment failed but money was deducted for cloud subscription,Billing,High
+I need assistance because my credentials are being rejected by cloud account,Account Access,Medium
+A security breach exposed confidential data in employee portal,Security,Critical
+Urgent issue: my account was charged multiple times for cloud subscription,Billing,High
+Urgent issue: the entire database server is offline and nobody can use it,Infrastructure,Critical
+Urgent issue: i urgently need access to HR portal for business operations,Account Access,High
+The connection becomes unstable throughout the day in the main office,Network,Medium
+My workstation is making a strange noise,Hardware,Low
+I need a copy of my invoice for support plan,Billing,Low
+The mouse connected to my desktop computer is not responding correctly,Hardware,Low
+The printer connected to my workstation has a minor issue,Hardware,Low
+I received a suspicious email related to HR portal,Security,Medium
+Support needed: wiFi coverage is poor in the support department,Network,Low
+Employees in the branch office cannot connect to the company VPN,Network,High
+I need assistance because accounting software stops responding after a few minutes,Software,Medium
+Suspicious activity was detected on my HR portal account,Security,High
+Payment failed but money was deducted for company purchase,Billing,High
+Login to customer portal keeps failing,Account Access,Medium
+Support needed: the printer connected to my company laptop has a minor issue,Hardware,Low
+I need assistance because i cannot access my admin dashboard account after several attempts,Account Access,Medium
+Support needed: company application closes unexpectedly when I use it,Software,Medium
+Support needed: a major component of the production environment is failing,Infrastructure,High
+Microsoft Teams installation fails on my computer,Software,Low
+My account was charged multiple times for support plan,Billing,High
+Excel crashes when I try to open a file,Software,Medium
+Please help. i am unable to authenticate to admin dashboard,Account Access,Medium
+I need assistance because i need a copy of my invoice for cloud subscription,Billing,Low
+I need assistance because the mouse connected to my company laptop is not responding correctly,Hardware,Low
+Support needed: a security breach exposed confidential data in employee portal,Security,Critical
+Support needed: i received an unexpected security alert from Microsoft 365,Security,Medium
+Please help. sensitive company data from company account may have been stolen,Security,Critical
+Urgent issue: the customer platform is responding slowly to requests,Infrastructure,Medium
+Someone may have stolen my company email login credentials,Security,High
+Please help. many employees cannot access the web application,Infrastructure,High
+Support needed: i forgot my password for cloud account,Account Access,Low
+I received a suspicious email related to company email,Security,Medium
+My office computer shuts down immediately after startup,Hardware,High
+The entire production environment for internal portal has gone offline,Infrastructure,Critical
+Support needed: outlook freezes during normal work,Software,Medium
+The entire production environment is offline and nobody can use it,Infrastructure,Critical
+Urgent issue: cRM application closes unexpectedly when I use it,Software,Medium
+I received an unexpected security alert from Microsoft 365,Security,Medium
+Support needed: i need a copy of my invoice for service plan,Billing,Low
+My workstation shuts down immediately after startup,Hardware,High
+Please help. outlook closes whenever I try to read a message,Software,Medium
+I need help resetting my password for admin dashboard,Account Access,Low
+I am unable to authenticate to Microsoft 365,Account Access,Medium
+An attacker gained administrator access to admin dashboard,Security,Critical
+Internet speed is slightly slow in the finance department,Network,Low
+Support needed: i need help resetting my password for HR portal,Account Access,Low
+Please help. performance of the web application has degraded,Infrastructure,Medium
+Please help. wiFi signal is weak in the main office,Network,Low
+Please help. there was an unusual login attempt on HR portal,Security,Medium
+I need assistance because employees keep losing network connectivity in the main office,Network,Medium
+I want to change my employee portal password,Account Access,Low
+Please help. some employees are having trouble accessing the cloud platform,Infrastructure,Medium
+Network performance is inconsistent in the engineering floor,Network,Low
+Please help. a suspicious attachment was sent to my employee portal account,Security,Medium
+Support needed: my credentials are being rejected by Microsoft 365,Account Access,Medium
+I forgot my password for company account,Account Access,Low
+There is an unexpected charge for monthly subscription,Billing,Medium
+The password reset link for cloud account has expired,Account Access,Low
+Urgent issue: my office computer is making a strange noise,Hardware,Low
+I was charged the wrong price for monthly subscription,Billing,Medium
+The web application is unavailable for many users,Infrastructure,High
+I need assistance because the backend service is experiencing a serious service disruption,Infrastructure,High
+Money was taken even though the monthly subscription transaction failed,Billing,High
+I received a phishing message asking for my admin dashboard password,Security,High
+Please send me a password reset for cloud account,Account Access,Low
+My workstation screen flashes while I am working,Hardware,Medium
+WiFi disconnects frequently in the meeting area,Network,Medium
+WiFi coverage is poor in the meeting area,Network,Low
+Please help. i was billed twice for the same software license,Billing,High
+My cloud account credentials may have been compromised,Security,High
+The desktop computer has completely stopped working,Hardware,High
+All customers have lost access to the internal portal,Infrastructure,Critical
+The network connection keeps dropping in the support department,Network,Medium
+Urgent issue: outlook crashes continuously for several employees,Software,High
+The monitor connected to my workstation keeps disconnecting,Hardware,Medium
+My credentials are being rejected by admin dashboard,Account Access,Medium
+The production environment is unavailable company wide,Infrastructure,Critical
+Please help. excel closes unexpectedly when I use it,Software,Medium
+Please help. my office computer shuts down immediately after startup,Hardware,High
+My company email account is locked,Account Access,Medium
+I was billed twice for the same company purchase,Billing,High
+Please help. the web application is unavailable company wide,Infrastructure,Critical
+Please send me a password reset for company email,Account Access,Low
+A suspicious attachment was sent to my Microsoft 365 account,Security,Medium
+Sensitive company data from customer portal may have been stolen,Security,Critical
+I need assistance because wiFi signal is weak in the meeting area,Network,Low
+Support needed: internet latency is very high in the finance department,Network,Medium
+Support needed: some employees are having trouble accessing the production server,Infrastructure,Medium
+My Microsoft 365 account was disabled and important work is blocked,Account Access,High
+I forgot my password for employee portal,Account Access,Low
+My office computer will not turn on,Hardware,High
+The internal portal is running unusually slowly,Infrastructure,Medium
+Performance of the database server has degraded,Infrastructure,Medium
+Internet latency is very high in the main office,Network,Medium
+Urgent issue: i need help installing desktop application,Software,Low
+Support needed: microsoft Teams stops responding after a few minutes,Software,Medium
+I forgot my password for admin dashboard,Account Access,Low
+The hard drive in my company laptop appears to have failed,Hardware,High
+An important feature in Microsoft Teams has completely stopped working,Software,High
+The internal portal is unavailable company wide,Infrastructure,Critical
+Please help. an important feature in Outlook has completely stopped working,Software,High
+Support needed: outlook is completely unusable and blocking my work,Software,High
+I cannot remember my HR portal password,Account Access,Low
+Support needed: i have completely lost access to customer portal and cannot continue working,Account Access,High
+I cannot remember my admin dashboard password,Account Access,Low
+I was charged the wrong price for software license,Billing,Medium
+Urgent issue: my credentials are being rejected by customer portal,Account Access,Medium
+Urgent issue: the production server is unavailable for many users,Infrastructure,High
+I need assistance because the latest update for company application will not install,Software,Low
+My HR portal account is locked,Account Access,Medium
+The password reset link for HR portal has expired,Account Access,Low
+Urgent issue: the keyboard on my desktop computer has a few keys that do not work,Hardware,Low
+Urgent issue: eRP system crashes continuously for several employees,Software,High
+Support needed: the amount on my support plan invoice is incorrect,Billing,Medium
+Support needed: network performance is inconsistent in the support department,Network,Low
+The desktop computer freezes randomly during work,Hardware,Medium
+I need help installing ERP system,Software,Low
+My company account credentials may have been compromised,Security,High
+I need assistance because employees in the support department cannot connect to the company VPN,Network,High
+I need help configuring company application,Software,Low
+Support needed: internet latency is very high in the main office,Network,Medium
+The production environment has completely crashed for all users,Infrastructure,Critical
+The web application keeps crashing during business hours,Infrastructure,High
+Please help. wiFi disconnects frequently in the finance department,Network,Medium
+A major component of the web application is failing,Infrastructure,High
+I need assistance because my refund for software license has not arrived,Billing,Medium
+There was an unusual login attempt on Microsoft 365,Security,Medium
+I need help installing CRM application,Software,Low
+Excel displays an unexpected error,Software,Medium
+The support department cannot connect to the corporate network,Network,High
+The laptop has completely stopped working,Hardware,High
+Please help. please send me a password reset for admin dashboard,Account Access,Low
+Support needed: i need help resetting my password for company email,Account Access,Low
+Urgent issue: login to Microsoft 365 keeps failing,Account Access,Medium
+accounting software crashes when I try to open a file,Software,Medium
+Login to HR portal keeps failing,Account Access,Medium
+My access to Microsoft 365 suddenly stopped during critical work,Account Access,High
+Please help. i was billed twice for the same service plan,Billing,High
+Malware has infected systems connected to Microsoft 365,Security,Critical
+My credentials are being rejected by company account,Account Access,Medium
+CRM application failure is preventing the team from completing critical work,Software,High
+The entire web application is offline and nobody can use it,Infrastructure,Critical
+Please help. i urgently need access to company account for business operations,Account Access,High
+Many employees cannot access the backend service,Infrastructure,High
+Urgent issue: cRM application stops responding after a few minutes,Software,Medium
+Sensitive company data from Microsoft 365 may have been stolen,Security,Critical
+Urgent issue: there is an unexpected charge for service plan,Billing,Medium
+Excel failure is preventing the team from completing critical work,Software,High
+Someone may have stolen my cloud account login credentials,Security,High
+I need assistance because an attacker gained administrator access to admin dashboard,Security,Critical
+Please help. someone may have stolen my cloud account login credentials,Security,High
+Internet latency is very high in the branch office,Network,Medium
+Urgent issue: the password reset link for customer portal has expired,Account Access,Low
+The hard drive in my workstation appears to have failed,Hardware,High
+Please help. the display on my office computer keeps flickering,Hardware,Medium
+I need assistance because network performance is inconsistent in the engineering floor,Network,Low
+A suspicious attachment was sent to my cloud account account,Security,Medium
+Urgent issue: someone may have stolen my company account login credentials,Security,High
+WiFi signal is weak in the support department,Network,Low
+Support needed: where can I download my service plan invoice,Billing,Low
+I need assistance because my admin dashboard account is locked,Account Access,Medium
+Malware has infected systems connected to HR portal,Security,Critical
+The backend service keeps crashing during business hours,Infrastructure,High
+I was billed twice for the same cloud subscription,Billing,High
+Sensitive company data from employee portal may have been stolen,Security,Critical
+I need assistance because the production server is responding slowly to requests,Infrastructure,Medium
+My desktop computer overheats and shuts down occasionally,Hardware,Medium
+Outlook failure is preventing the team from completing critical work,Software,High
+Login to Microsoft 365 keeps failing,Account Access,Medium
+I need assistance because the entire production server is offline and nobody can use it,Infrastructure,Critical
+I need assistance because the network connection keeps dropping in the main office,Network,Medium
+Urgent issue: please explain a charge for software license,Billing,Low
+desktop application closes whenever I try to read a message,Software,Medium
+My office computer overheats and shuts down occasionally,Hardware,Medium
+My refund for support plan has not arrived,Billing,Medium
+The password reset link for Microsoft 365 has expired,Account Access,Low
+Please help. my desktop computer overheats and shuts down occasionally,Hardware,Medium
+Please provide the receipt for software license,Billing,Low
+Support needed: i received a suspicious email related to admin dashboard,Security,Medium
+The connection becomes unstable throughout the day in the finance department,Network,Medium
+Urgent issue: the production environment is running unusually slowly,Infrastructure,Medium
+The internal portal keeps crashing during business hours,Infrastructure,High
+I need assistance because my workstation will not turn on,Hardware,High
+Support needed: money was taken even though the company purchase transaction failed,Billing,High
+Please help. i received an unexpected security alert from customer portal,Security,Medium
+I need assistance because wiFi coverage is poor in the branch office,Network,Low
+I cannot access my customer portal account after several attempts,Account Access,Medium
+I received a phishing message asking for my Microsoft 365 password,Security,High
+Confidential information from admin dashboard was accessed without permission,Security,Critical
+A major component of the internal portal is failing,Infrastructure,High
+A major component of the production environment is failing,Infrastructure,High
+Support needed: i want to change my company email password,Account Access,Low
+Support needed: money was taken even though the service plan transaction failed,Billing,High
+I need assistance because i am unable to authenticate to employee portal,Account Access,Medium
+Please help. the office computer has completely stopped working,Hardware,High
+My customer portal account is locked,Account Access,Medium
+Please help. my access to customer portal suddenly stopped during critical work,Account Access,High
+Urgent issue: my refund for software license is delayed,Billing,Medium
+Malware has infected systems connected to admin dashboard,Security,Critical
+Money was taken even though the cloud subscription transaction failed,Billing,High
+Support needed: my access to cloud account suddenly stopped during critical work,Account Access,High
+All customers have lost access to the web application,Infrastructure,Critical
+I need assistance because i want to change my employee portal password,Account Access,Low
+My credentials are being rejected by company email,Account Access,Medium
+Employees in the engineering floor cannot connect to the company VPN,Network,High
+Urgent issue: the laptop has completely stopped working,Hardware,High
+Support needed: my desktop computer shuts down immediately after startup,Hardware,High
+My cloud account account is locked,Account Access,Medium
+Payment failed but money was deducted for service plan,Billing,High
+I need assistance because the entire production environment for web application has gone offline,Infrastructure,Critical
+Support needed: eRP system displays an unexpected error,Software,Medium
+Support needed: please provide the receipt for monthly subscription,Billing,Low
+The engineering floor cannot connect to the corporate network,Network,High
+Support needed: employees in the meeting area cannot connect to the company VPN,Network,High
+My access to HR portal suddenly stopped during critical work,Account Access,High
+Confidential information from employee portal was accessed without permission,Security,Critical
+Confidential information from Microsoft 365 was accessed without permission,Security,Critical
+Please help. i cannot sign into admin dashboard,Account Access,Medium
+I need assistance because some employees are having trouble accessing the production environment,Infrastructure,Medium
+The latest update for CRM application will not install,Software,Low
+I need assistance because my refund for monthly subscription is delayed,Billing,Medium
+Urgent issue: my office computer screen flashes while I am working,Hardware,Medium
+Excel installation fails on my computer,Software,Low
+Urgent issue: i received a phishing message asking for my customer portal password,Security,High
+Sensitive company data from HR portal may have been stolen,Security,Critical
+Please help. my credentials are being rejected by admin dashboard,Account Access,Medium
+I need help installing accounting software,Software,Low
+The production environment is running unusually slowly,Infrastructure,Medium
+I need assistance because accounting software displays an unexpected error,Software,Medium
+My company laptop screen flashes while I am working,Hardware,Medium
+The latest update for desktop application will not install,Software,Low
+I need assistance because a duplicate charge appeared for support plan,Billing,High
+Internet latency is very high in the meeting area,Network,Medium
+A duplicate charge appeared for company purchase,Billing,High
+Urgent issue: the display on my workstation keeps flickering,Hardware,Medium
+I need assistance because the latest update for ERP system will not install,Software,Low
+Support needed: the web application is experiencing a serious service disruption,Infrastructure,High
+There was an unusual login attempt on company account,Security,Medium
+Many employees cannot access the customer platform,Infrastructure,High
+Please help. i urgently need access to customer portal for business operations,Account Access,High
+Please help. the meeting area cannot connect to the corporate network,Network,High
+The network connection keeps dropping in the meeting area,Network,Medium
+Please help. my admin dashboard account was disabled and important work is blocked,Account Access,High
+A security breach exposed confidential data in company email,Security,Critical
+Sensitive company data from cloud account may have been stolen,Security,Critical
+The cloud platform is running unusually slowly,Infrastructure,Medium
+Outlook crashes whenever I open it,Software,Medium
+Sensitive company data from company email may have been stolen,Security,Critical
+ERP system freezes during normal work,Software,Medium
+Support needed: my company laptop screen flashes while I am working,Hardware,Medium
+Please help. accounting software installation fails on my computer,Software,Low
+I need a copy of my invoice for cloud subscription,Billing,Low
