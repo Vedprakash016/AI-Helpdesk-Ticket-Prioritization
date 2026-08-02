@@ -13,7 +13,8 @@ function App() {
   e.preventDefault();
 
   try {
-    const response = await fetch("http://127.0.0.1:8000/login", {
+    console.log("API URL:", import.meta.env.VITE_API_URL);
+const response = await fetch(`${import.meta.env.VITE_API_URL}/login`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
