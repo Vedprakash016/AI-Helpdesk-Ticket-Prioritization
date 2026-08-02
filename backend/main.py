@@ -26,11 +26,12 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-   allow_origins=[
-    "http://localhost:5173",
-    "http://localhost:5174",
-    "https://ai-helpdesk-ticket-prioritization-qdqe7m1bj-voyager-x1.vercel.app",
-],
+    allow_origins=[
+        "http://localhost:5173",
+        "http://localhost:5174",
+        "https://ai-helpdesk-ticket-prioritization.vercel.app",
+        "https://ai-helpdesk-ticket-prioritization-qdqe7m1bj-voyager-x1.vercel.app",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
