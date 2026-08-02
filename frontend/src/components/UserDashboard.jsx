@@ -15,8 +15,8 @@ function UserDashboard({ onLogout }) {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:8000/tickets/my",
-        {
+  `${import.meta.env.VITE_API_URL}/tickets/my`,
+  {
           headers: {
             Authorization: `Bearer ${token}`,
           },
@@ -51,8 +51,8 @@ const refreshTickets = async () => {
 
   try {
     const response = await fetch(
-      "http://127.0.0.1:8000/tickets/my",
-      {
+  `${import.meta.env.VITE_API_URL}/tickets/my`,
+  {
         headers: {
           Authorization: `Bearer ${token}`,
         },
@@ -80,12 +80,14 @@ const createTicket = async (e) => {
   e.preventDefault();
   setSubmitting(true);
 
+  console.log("Create Ticket API:", import.meta.env.VITE_API_URL);
+
   const token = localStorage.getItem("token");
 
   try {
     const response = await fetch(
-      "http://127.0.0.1:8000/tickets",
-      {
+  `${import.meta.env.VITE_API_URL}/tickets`,
+  {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
