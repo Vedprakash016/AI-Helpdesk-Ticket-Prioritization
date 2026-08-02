@@ -80,7 +80,6 @@ const createTicket = async (e) => {
   e.preventDefault();
   setSubmitting(true);
 
-  console.log("Create Ticket API:", import.meta.env.VITE_API_URL);
 
   const token = localStorage.getItem("token");
 

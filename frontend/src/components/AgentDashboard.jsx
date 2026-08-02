@@ -12,8 +12,8 @@ function AgentDashboard({ onLogout }) {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:8000/agent/tickets",
-        {
+  `${import.meta.env.VITE_API_URL}/agent/tickets`,
+  {
           headers: {
             Authorization: `Bearer ${token}`,
           },
@@ -48,8 +48,8 @@ const refreshTickets = async () => {
 
   try {
     const response = await fetch(
-      "http://127.0.0.1:8000/agent/tickets",
-      {
+  `${import.meta.env.VITE_API_URL}/agent/tickets`,
+  {
         headers: {
           Authorization: `Bearer ${token}`,
         },
@@ -84,8 +84,8 @@ if (!confirmed) return;
 
   try {
     const response = await fetch(
-      `http://127.0.0.1:8000/tickets/${ticketId}/status`,
-      {
+  `${import.meta.env.VITE_API_URL}/tickets/${ticketId}/status`,
+  {
         method: "PATCH",
         headers: {
           "Content-Type": "application/json",

@@ -101,7 +101,7 @@ if (role === "user") {
       <div className="login-card">
         <div className="logo">AI</div>
 
-       <h1>AI Helpdesk - TEST BUILD</h1>
+       <h1>AI Helpdesk</h1>
 
         <p className="subtitle">
           Intelligent Ticket Prioritization System

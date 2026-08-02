@@ -35,8 +35,8 @@ function AdminDashboard({ onLogout }) {
 
       try {
         const response = await fetch(
-          "http://127.0.0.1:8000/admin/stats",
-          {
+  `${import.meta.env.VITE_API_URL}/admin/stats`,
+  {
             headers: {
               Authorization: `Bearer ${token}`,
             },
@@ -61,9 +61,9 @@ function AdminDashboard({ onLogout }) {
     const token = localStorage.getItem("token");
 
   try {
-    const response = await fetch(
-      "http://127.0.0.1:8000/admin/users",
-      {
+   const response = await fetch(
+  `${import.meta.env.VITE_API_URL}/admin/users`,
+  {
         headers: {
           Authorization: `Bearer ${token}`,
         },
@@ -88,8 +88,8 @@ const fetchTickets = async () => {
 
   try {
     const response = await fetch(
-      "http://127.0.0.1:8000/agent/tickets",
-      {
+  `${import.meta.env.VITE_API_URL}/agent/tickets`,
+  {
         headers: {
           Authorization: `Bearer ${token}`,
         },
@@ -114,8 +114,8 @@ const fetchAgents = async () => {
 
   try {
     const response = await fetch(
-      "http://127.0.0.1:8000/admin/agents",
-      {
+  `${import.meta.env.VITE_API_URL}/admin/agents`,
+  {
         headers: {
           Authorization: `Bearer ${token}`,
         },
@@ -159,19 +159,19 @@ loadDashboard();
   try {
     const [statsResponse, usersResponse, ticketsResponse, agentsResponse] =
       await Promise.all([
-        fetch("http://127.0.0.1:8000/admin/stats", {
-          headers: { Authorization: `Bearer ${token}` },
-        }),
-        fetch("http://127.0.0.1:8000/admin/users", {
-          headers: { Authorization: `Bearer ${token}` },
-        }),
-        fetch("http://127.0.0.1:8000/agent/tickets", {
-          headers: { Authorization: `Bearer ${token}` },
-        }),
-        fetch("http://127.0.0.1:8000/admin/agents", {
-          headers: { Authorization: `Bearer ${token}` },
-        }),
-      ]);
+  fetch(`${import.meta.env.VITE_API_URL}/admin/stats`, {
+    headers: { Authorization: `Bearer ${token}` },
+  }),
+  fetch(`${import.meta.env.VITE_API_URL}/admin/users`, {
+    headers: { Authorization: `Bearer ${token}` },
+  }),
+  fetch(`${import.meta.env.VITE_API_URL}/agent/tickets`, {
+    headers: { Authorization: `Bearer ${token}` },
+  }),
+  fetch(`${import.meta.env.VITE_API_URL}/admin/agents`, {
+    headers: { Authorization: `Bearer ${token}` },
+  }),
+]);
 
     if (
       !statsResponse.ok ||
@@ -212,8 +212,8 @@ if (!confirmed) return;
 
   try {
     const response = await fetch(
-      `http://127.0.0.1:8000/admin/users/${userId}/role`,
-      {
+  `${import.meta.env.VITE_API_URL}/admin/users/${userId}/role`,
+  {
         method: "PATCH",
         headers: {
           "Content-Type": "application/json",
@@ -259,8 +259,8 @@ if (!confirmed) return;
 
   try {
     const response = await fetch(
-      `http://127.0.0.1:8000/tickets/${ticketId}/assign`,
-      {
+  `${import.meta.env.VITE_API_URL}/tickets/${ticketId}/assign`,
+  {
         method: "PATCH",
         headers: {
           "Content-Type": "application/json",
